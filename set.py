@@ -1,5 +1,6 @@
 '''
 Faraday School of Mathematics
+Carol Pan and Leo Liu
 SoftDev2 pd 7
 K #16: Ready, Set, Math!
 2018-04-26
